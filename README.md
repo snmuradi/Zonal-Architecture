@@ -15,7 +15,7 @@ Wireless tire pressure sensors to transmit data to the central processing unit.
  Benefits:
 Reduces the risk of accidents due to under-inflated or over-inflated tires.
 Improves fuel efficiency and tire longevity.
-2. Heating, Ventilation, and Air Conditioning (HVAC)
+## 2. Heating, Ventilation, and Air Conditioning (HVAC)
 Objective: To control the climate within the vehicle, ensuring passenger comfort by regulating temperature, airflow, and humidity.
  Key Features:
 Zonal-based climate control, where each zone of the vehicle can be independently managed.
@@ -24,7 +24,7 @@ Energy-efficient operation through integration with the vehicle’s power system
  Benefits:
 Enhances comfort with precise climate control for each passenger.
 Improves energy efficiency and reduces overall power consumption.
-3. Body Control Module (BCM)
+## 3. Body Control Module (BCM)
 Objective: To control and monitor various electronic functions within the vehicle such as lighting, windows, and locks.
  Key Features:
 Centralized control of electronic subsystems, reducing wiring complexity.
