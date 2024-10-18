@@ -9,8 +9,8 @@
 ## 1. Tire Pressure Monitoring System (TPMS)
 Objective: To enhance safety by providing real-time monitoring of tire pressure and alerting the driver in case of any anomalies.
 # Key Features:
-Wireless tire pressure sensors to transmit data to the central processing unit.
- Integration into the zonal architecture for simplified data processing.
+## Wireless tire pressure sensors to transmit data to the central processing unit.
+  Integration into the zonal architecture for simplified data processing.
  Real-time alerts and diagnostic features.
 Benefits:
 Reduces the risk of accidents due to under-inflated or over-inflated tires.
