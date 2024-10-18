@@ -8,29 +8,29 @@
 # Project Components
 ## 1. Tire Pressure Monitoring System (TPMS)
 Objective: To enhance safety by providing real-time monitoring of tire pressure and alerting the driver in case of any anomalies.
-# Key Features:
+ Key Features:
 Wireless tire pressure sensors to transmit data to the central processing unit.
   Integration into the zonal architecture for simplified data processing.
  Real-time alerts and diagnostic features.
-# Benefits:
+ Benefits:
 Reduces the risk of accidents due to under-inflated or over-inflated tires.
 Improves fuel efficiency and tire longevity.
 2. Heating, Ventilation, and Air Conditioning (HVAC)
 Objective: To control the climate within the vehicle, ensuring passenger comfort by regulating temperature, airflow, and humidity.
-# Key Features:
+ Key Features:
 Zonal-based climate control, where each zone of the vehicle can be independently managed.
 Sensors for temperature, humidity, and air quality.
 Energy-efficient operation through integration with the vehicle’s power system.
-# Benefits:
+ Benefits:
 Enhances comfort with precise climate control for each passenger.
 Improves energy efficiency and reduces overall power consumption.
 3. Body Control Module (BCM)
 Objective: To control and monitor various electronic functions within the vehicle such as lighting, windows, and locks.
-# Key Features:
+ Key Features:
 Centralized control of electronic subsystems, reducing wiring complexity.
 Integration with the vehicle’s zonal network for real-time diagnostics.
 Advanced features like smart lighting, automatic door locking, and remote control via mobile apps.
-# Benefits:
+ Benefits:
 Reduces vehicle weight due to fewer wiring requirements.
 Improves vehicle diagnostics and system performance.
 Zonal Architecture Integration
