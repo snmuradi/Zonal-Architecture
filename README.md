@@ -1,17 +1,17 @@
 # Zonal-Architecture
 ## TPMS, HVAC, and BCM for Zonal Architecture
 ### Overview
-This project focuses on redesigning the Tire Pressure Monitoring System (TPMS), Heating, Ventilation, and Air Conditioning (HVAC), and Body Control Module (BCM) for a zonal architecture in modern vehicles. Zonal architecture centralizes various electronic control systems, improving vehicle efficiency, safety, and flexibility.
+#### This project focuses on redesigning the Tire Pressure Monitoring System (TPMS), Heating, Ventilation, and Air Conditioning (HVAC), and Body Control Module (BCM) for a zonal architecture in modern vehicles. Zonal architecture centralizes various electronic control systems, improving vehicle efficiency, safety, and flexibility.
 
-The key goal of this project is to integrate these subsystems into a zonal-based vehicle system to optimize performance, reduce wiring complexity, and allow for more seamless communication between different vehicle components.
+#### The key goal of this project is to integrate these subsystems into a zonal-based vehicle system to optimize performance, reduce wiring complexity, and allow for more seamless communication between different vehicle components.
 
-Project Components
-1. Tire Pressure Monitoring System (TPMS)
+# Project Components
+## 1. Tire Pressure Monitoring System (TPMS)
 Objective: To enhance safety by providing real-time monitoring of tire pressure and alerting the driver in case of any anomalies.
-Key Features:
+# Key Features:
 Wireless tire pressure sensors to transmit data to the central processing unit.
-Integration into the zonal architecture for simplified data processing.
-Real-time alerts and diagnostic features.
+ Integration into the zonal architecture for simplified data processing.
+ Real-time alerts and diagnostic features.
 Benefits:
 Reduces the risk of accidents due to under-inflated or over-inflated tires.
 Improves fuel efficiency and tire longevity.
